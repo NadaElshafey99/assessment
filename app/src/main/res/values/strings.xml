@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Etisalat Assessment</string>
+    <string name="title_activity_recipe_screen">RecipeScreen</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="details">Show details</string>
+    <string name="error">Error!</string>
+    <string name="something_wrong">"There's something wrong! \n Please try again"</string>
+    <string name="try_again">Try again</string>
+    <string name="cancel">Cancel</string>
+</resources>
